@@ -1,0 +1,74 @@
+[
+    {
+        "id": "calendar",
+        "title": "Календарь вакцинации",
+        "description": "Национальный календарь профилактических прививок и сроки вакцинации",
+        "url": "/calendar",
+        "icon": "icons/calendar.svg",
+        "badge": "Важно"
+    },
+    {
+        "id": "infections",
+        "title": "Инфекции",
+        "description": "Информация об инфекционных заболеваниях и их профилактике",
+        "url": "/infections",
+        "icon": "icons/virus.svg"
+    },
+    {
+        "id": "vaccines",
+        "title": "Вакцины",
+        "description": "Типы вакцин, их состав и механизм действия",
+        "url": "/vaccines",
+        "icon": "icons/vaccine.svg"
+    },
+    {
+        "id": "reactions",
+        "title": "Поствакцинные реакции",
+        "description": "Возможные реакции после вакцинации и как с ними справляться",
+        "url": "/reactions",
+        "icon": "icons/reaction.svg"
+    },
+    {
+        "id": "contraindications",
+        "title": "Противопоказания",
+        "description": "Когда нельзя делать прививки и почему",
+        "url": "/contraindications",
+        "icon": "icons/warning.svg",
+        "badge": "Важно"
+    },
+    {
+        "id": "preparation",
+        "title": "Подготовка к вакцинации",
+        "description": "Как правильно подготовиться к вакцинации",
+        "url": "/preparation",
+        "icon": "icons/checklist.svg"
+    },
+    {
+        "id": "tactics",
+        "title": "Тактика врача",
+        "description": "Алгоритмы действий медицинского персонала",
+        "url": "/tactics",
+        "icon": "icons/doctor.svg"
+    },
+    {
+        "id": "myths",
+        "title": "Мифы о вакцинах",
+        "description": "Разбор распространенных заблуждений о вакцинации",
+        "url": "/myths",
+        "icon": "icons/myth.svg"
+    },
+    {
+        "id": "travelers",
+        "title": "Вакцинация путешественников",
+        "description": "Рекомендации по вакцинации при поездках в разные страны",
+        "url": "/travelers",
+        "icon": "icons/travel.svg"
+    },
+    {
+        "id": "documents",
+        "title": "Нормативная документация",
+        "description": "Законы, приказы и методические рекомендации по вакцинопрофилактике",
+        "url": "/documents",
+        "icon": "icons/document.svg"
+    }
+]

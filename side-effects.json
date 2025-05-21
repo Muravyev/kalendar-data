@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "type": "general",
+    "title": "Местные реакции",
+    "urgency": "low",
+    "summary": "Боль, покраснение, отёк в месте укола (10-50%).",
+    "details": "<div class=\"detail-section\"><h4>Местные реакции:</h4><ul class=\"detail-list\"><li><strong>Описание:</strong> Боль, покраснение, припухлость в месте введения (обычно 1-3 дня).</li><li><strong>Частота:</strong> 10-50% (зависит от вакцины и адъюванта).</li><li><strong>Примеры:</strong> АКДС — боль (40%), Превенар 13 — отёк (20%).</li><li><strong>Лечение:</strong> Холодный компресс, парацетамол при сильной боли.</li></ul></div>"
+  },
+  {
+    "id": 2,
+    "type": "general",
+    "title": "Общие реакции",
+    "urgency": "medium",
+    "summary": "Лихорадка (<39°C, 5-15%), слабость, головная боль (5-20%).",
+    "details": "<div class=\"detail-section\"><h4>Общие реакции:</h4><ul class=\"detail-list\"><li><strong>Описание:</strong> Лихорадка (37.5-39°C), утомляемость, миалгия, головная боль (1-2 дня).</li><li><strong>Частота:</strong> 5-15% для инактивированных, до 50% для живых вакцин.</li><li><strong>Примеры:</strong> КПК — температура (10%), Спутник V — слабость (15%).</li><li><strong>Лечение:</strong> Парацетамол/ибупрофен, обильное питьё.</li></ul></div>"
+  },
+  {
+    "id": 3,
+    "type": "general",
+    "title": "Редкие реакции",
+    "urgency": "high",
+    "summary": "Аллергические реакции (<1:10⁴), судороги (<1:10⁴).",
+    "details": "<div class=\"detail-section\"><h4>Аллергические реакции:</h4><ul class=\"detail-list\"><li><strong>Примеры:</strong> Менактра — анафилаксия (<1:10⁶).</li><li><strong>Действия:</strong> Адреналин, наблюдение 30 мин. после укола.</li></ul><h4>Судороги:</h4><ul class=\"detail-list\"><li><strong>Примеры:</strong> АКДС — судороги (<1:10⁴).</li><li><strong>Действия:</strong> Контроль температуры, консультация невролога.</li></ul><p><strong>Источник:</strong> Минздрав России, ВОЗ, инструкции.</p></div>"
+  },
+  {
+    "id": 4,
+    "type": "specific",
+    "title": "АКДС, Инфанрикс, Пентаксим",
+    "summary": "Высокая лихорадка (20%), \"непрерывный крик\" (<1%).",
+    "details": "<div class=\"detail-section\"><h4>АКДС, Инфанрикс, Пентаксим (Дифтерия, Коклюш, Столбняк):</h4><ul class=\"detail-list\"><li><strong>Высокая лихорадка:</strong> >39°C, до 20%, чаще у цельноклеточных (АКДС).</li><li><strong>\"Непрерывный крик\":</strong> Длительный плач >3 часов (<1%), связан с коклюшным компонентом.</li><li><strong>Отёк:</strong> До 10-15% в месте укола.</li><li><strong>Лечение:</strong> Жаропонижающие, наблюдение.</li><li><strong>Источник:</strong> Инструкции, CDC.</li></ul></div>"
+  },
+  {
+    "id": 5,
+    "type": "specific",
+    "title": "БЦЖ, БЦЖ-М",
+    "summary": "Нагноение (5%), лимфаденит (<1:10⁴).",
+    "details": "<div class=\"detail-section\"><h4>БЦЖ, БЦЖ-М (Туберкулёз):</h4><ul class=\"detail-list\"><li><strong>Нагноение:</strong> В месте укола (5%), норма при формировании рубца (2-6 нед.).</li><li><strong>Лимфаденит:</strong> Увеличение лимфоузлов (<1:10⁴), редко требует хирургии.</li><li><strong>Редко:</strong> Остит (<1:10⁵).</li><li><strong>Лечение:</strong> Обычно проходит самостоятельно, при осложнениях — изониазид.</li><li><strong>Источник:</strong> Инструкции, ВОЗ.</li></ul></div>"
+  },
+  {
+    "id": 6,
+    "type": "specific",
+    "title": "КПК, Приорикс",
+    "summary": "Сыпь (5%), тромбоцитопения (<1:30,000).",
+    "details": "<div class=\"detail-section\"><h4>КПК, Приорикс, MMR-II (Корь, Паротит, Краснуха):</h4><ul class=\"detail-list\"><li><strong>Сыпь:</strong> Лёгкая кореподобная (5-10%), через 7-14 дней.</li><li><strong>Тромбоцитопения:</strong> Снижение тромбоцитов (<1:30,000), проходит самостоятельно.</li><li><strong>Лихорадка:</strong> До 15%, через 5-12 дней.</li><li><strong>Лечение:</strong> Симптоматическое.</li><li><strong>Источник:</strong> Инструкции, CDC.</li></ul></div>"
+  },
+  {
+    "id": 7,
+    "type": "specific",
+    "title": "РотаТек, Ротарикс",
+    "summary": "Диарея (5%), риск инвагинации (<1:10⁵).",
+    "details": "<div class=\"detail-section\"><h4>РотаТек, Ротарикс (Ротавирусная инфекция):</h4><ul class=\"detail-list\"><li><strong>Диарея/рвота:</strong> Лёгкие (5%), в первые дни.</li><li><strong>Инвагинация:</strong> Риск (<1:10⁵), чаще в первые 7 дней после 1-й дозы.</li><li><strong>Лечение:</strong> Наблюдение, при инвагинации — срочная госпитализация.</li><li><strong>Источник:</strong> Инструкции, ВОЗ.</li></ul></div>"
+  },
+  {
+    "id": 8,
+    "type": "specific",
+    "title": "Менактра, Бексеро",
+    "summary": "Лихорадка (50% для Бексеро), слабость.",
+    "details": "<div class=\"detail-section\"><h4>Менактра, Менвео, Бексеро (Менингококковая инфекция):</h4><ul class=\"detail-list\"><li><strong>Лихорадка:</strong> До 50% для Бексеро, 5-10% для Менактра.</li><li><strong>Боль в месте укола:</strong> 30-40%.</li><li><strong>Редко:</strong> Синдром Гийена-Барре (<1:10⁶).</li><li><strong>Лечение:</strong> Жаропонижающие, отдых.</li><li><strong>Источник:</strong> Инструкции, CDC.</li></ul></div>"
+  },
+  {
+    "id": 9,
+    "type": "specific",
+    "title": "Спутник V",
+    "summary": "Гриппоподобный синдром (15%).",
+    "details": "<div class=\"detail-section\"><h4>Спутник V, ЭпиВакКорона (Коронавирус):</h4><ul class=\"detail-list\"><li><strong>Гриппоподобный синдром:</strong> Лихорадка, миалгия (15%), 1-2 дня.</li><li><strong>Боль в месте укола:</strong> 10-15%.</li><li><strong>Редко:</strong> Аллергия (<1:10⁴).</li><li><strong>Лечение:</strong> Парацетамол, покой.</li><li><strong>Источник:</strong> Инструкции, Минздрав России.</li></ul></div>"
+  },
+  {
+    "id": 10,
+    "type": "specific",
+    "title": "Гардасил, Церварикс",
+    "summary": "Обмороки (1-5%), боль в месте укола (20%).",
+    "details": "<div class=\"detail-section\"><h4>Гардасил, Церварикс (ВПЧ):</h4><ul class=\"detail-list\"><li><strong>Обмороки:</strong> 1-5%, вазовагальная реакция у подростков.</li><li><strong>Боль в месте укола:</strong> 20-25%.</li><li><strong>Лихорадка:</strong> 3%.</li><li><strong>Лечение:</strong> Наблюдение, горизонтальное положение после укола.</li><li><strong>Источник:</strong> Инструкции, ВОЗ.</li></ul></div>"
+  },
+  {
+    "id": 11,
+    "type": "specific",
+    "title": "КОКАВ, Рабипур",
+    "summary": "Боль (15%), неврологические реакции (<1%).",
+    "details": "<div class=\"detail-section\"><h4>КОКАВ, Рабипур (Бешенство):</h4><ul class=\"detail-list\"><li><strong>Боль в месте укола:</strong> 15-20%.</li><li><strong>Лихорадка:</strong> 5%.</li><li><strong>Редко:</strong> Неврологические реакции (<1%), сыпь.</li><li><strong>Лечение:</strong> Симптоматическое.</li><li><strong>Источник:</strong> Инструкции, ВОЗ.</li></ul></div>"
+  },
+  {
+    "id": 12,
+    "type": "specific",
+    "title": "Превенар 13, Синфлорикс",
+    "summary": "Боль/отёк: 20-30%, лихорадка: 10%.",
+    "details": "<div class=\"detail-section\"><h4>Превенар 13, Синфлорикс (Пневмококковая инфекция):</h4><ul class=\"detail-list\"><li><strong>Боль/отёк:</strong> 20-30%.</li><li><strong>Лихорадка:</strong> 10%.</li><li><strong>Редко:</strong> Аллергия (<1:10⁴).</li><li><strong>Лечение:</strong> Симптоматическое.</li><li><strong>Источник:</strong> Инструкции, CDC.</li></ul></div>"
+  },
+  {
+    "id": 13,
+    "type": "specific",
+    "title": "Регевак В, Энджерикс В",
+    "summary": "Боль в месте укола: 10-15%, лихорадка: <5%.",
+    "details": "<div class=\"detail-section\"><h4>Регевак В, Энджерикс В (Гепатит В):</h4><ul class=\"detail-list\"><li><strong>Боль в месте укола:</strong> 10-15%.</li><li><strong>Лихорадка:</strong> <5%.</li><li><strong>Редко:</strong> Аллергия (<1:10⁴).</li><li><strong>Лечение:</strong> Симптоматическое.</li><li><strong>Источник:</strong> Инструкции, ВОЗ.</li></ul></div>"
+  },
+  {
+    "id": 14,
+    "type": "specific",
+    "title": "Варилрикс, Варивакс",
+    "summary": "Сыпь: лёгкая ветряноподобная (5%), через 7-21 день.",
+    "details": "<div class=\"detail-section\"><h4>Варилрикс, Варивакс (Ветряная оспа):</h4><ul class=\"detail-list\"><li><strong>Сыпь:</strong> Лёгкая ветряноподобная (5%), через 7-21 день.</li><li><strong>Лихорадка:</strong> 10%.</li><li><strong>Редко:</strong> Аллергия (<1:10⁴).</li><li><strong>Лечение:</strong> Симптоматическое.</li><li><strong>Источник:</strong> Инструкции, CDC.</li></ul></div>"
+  },
+  {
+    "id": 15,
+    "type": "specific",
+    "title": "Ультрикс Квадри, Ваксигрип",
+    "summary": "Боль в месте укола: 10-15%, лихорадка: 5%.",
+    "details": "<div class=\"detail-section\"><h4>Ультрикс Квадри, Ваксигрип (Грипп):</h4><ul class=\"detail-list\"><li><strong>Боль в месте укола:</strong> 10-15%.</li><li><strong>Лихорадка:</strong> 5%.</li><li><strong>Редко:</strong> Синдром Гийена-Барре (<1:10⁶).</li><li><strong>Лечение:</strong> Парацетамол, отдых.</li><li><strong>Источник:</strong> Инструкции, ВОЗ.</li></ul></div>"
+  },
+  {
+    "id": 16,
+    "type": "specific",
+    "title": "Полиовакцина (ОПВ), Имовакс Полио",
+    "summary": "Диарея: <1% для ОПВ, покраснение: 10% для Имовакс Полио.",
+    "details": "<div class=\"detail-section\"><h4>Полиовакцина (ОПВ), Имовакс Полио (Полиомиелит):</h4><ul class=\"detail-list\"><li><strong>Диарея:</strong> <1% для ОПВ.</li><li><strong>Покраснение:</strong> 10% для Имовакс Полио.</li><li><strong>Редко:</strong> ВАПП (<1:10⁶) для ОПВ.</li><li><strong>Лечение:</strong> Наблюдение, замена на инактивированную.</li><li><strong>Источник:</strong> Инструкции, ВОЗ.</li></ul></div>"
+  }
+] 
